@@ -1,0 +1,6 @@
+﻿-- Update Entities DB Rirst
+Scaffold-DbContext "Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=E:\LearnAngularAndAspNetCore\MicroServices\Microservice-EventLogger\EventLogger\LocalDB\event_logger.mdf;Integrated Security=True;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -Context EventLoggerContext -ContextDir Context -OutputDir Entities -Project EventLogger -force
+
+-- Code First 
+run from PM: add-migration wizdi_preprod -Context YavneBonusContext
+run from PM: update-database –verbose

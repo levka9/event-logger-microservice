@@ -1,0 +1,30 @@
+﻿CREATE TABLE [dbo].[EventDetails]
+(
+	[Id] BIGINT NOT NULL IDENTITY(1,1) PRIMARY KEY, 
+    [EventId] BIGINT NOT NULL, 
+    [TagName] NVARCHAR(20) NOT NULL, 
+    [Value] NVARCHAR(50) NOT NULL, 
+    [CreatedDate] DATETIME NOT NULL DEFAULT getdate(), 
+    CONSTRAINT [FK_EventDetails_Event] FOREIGN KEY ([EventId]) REFERENCES [Event]([Id])
+)
+
+CREATE TABLE [dbo].[Event]
+(
+	[Id] BIGINT NOT NULL IDENTITY(1,1) PRIMARY KEY, 
+    [EventTypeId] TINYINT NOT NULL, 
+    [AppicationName] VARCHAR(30) NULL, 
+	[UserId] VARCHAR(50) NULL,     
+    [ProccessId] VARCHAR(50) NULL,	
+    [CreatedDate] DATETIME NOT NULL DEFAULT getdate(), 
+    CONSTRAINT [FK_Event_EventType] FOREIGN KEY ([EventTypeId]) REFERENCES [EventType]([Id])
+)
+
+CREATE TABLE [dbo].[EventType]
+(
+	[Id] TINYINT NOT NULL IDENTITY(1,1) PRIMARY KEY, 
+    [Type] VARCHAR(30) NOT NULL, 
+    [SubType] VARBINARY(30) NOT NULL, 
+    [Description] NVARCHAR(200) NULL, 
+    [CreatedDate] DATETIME NOT NULL DEFAULT getdate(), 
+    [UpdatedDate] DATETIME NULL
+)

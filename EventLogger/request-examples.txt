@@ -1,0 +1,27 @@
+﻿1. Get
+https://localhost:44365/event/2
+
+2. Get 
+https://localhost:44365/event/getByUserId/12
+
+3. Post
+https://localhost:44365/event/add
+
+Body:
+{
+	"EventTypeId": 2,
+	"AppicationName": "test21",
+	"UserId": 14,
+	"ProccessId": 1111,
+	"EventDetails": [
+		{
+		"TagName": "param1",
+		"Value": "2222"
+		},
+		{
+		"TagName": "param2",
+		"Value": "3333"
+		}
+	]
+}
+

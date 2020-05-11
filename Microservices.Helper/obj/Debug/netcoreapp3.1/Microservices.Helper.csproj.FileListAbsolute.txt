@@ -1,0 +1,16 @@
+G:\LearnAngularAndAspNetCore\MicroServices\Microservice-EventLogger\Microservices.Helper\bin\Debug\netcoreapp3.1\Microservices.Helper.deps.json
+G:\LearnAngularAndAspNetCore\MicroServices\Microservice-EventLogger\Microservices.Helper\bin\Debug\netcoreapp3.1\Microservices.Helper.dll
+G:\LearnAngularAndAspNetCore\MicroServices\Microservice-EventLogger\Microservices.Helper\obj\Debug\netcoreapp3.1\Microservices.Helper.AssemblyInfoInputs.cache
+G:\LearnAngularAndAspNetCore\MicroServices\Microservice-EventLogger\Microservices.Helper\obj\Debug\netcoreapp3.1\Microservices.Helper.AssemblyInfo.cs
+G:\LearnAngularAndAspNetCore\MicroServices\Microservice-EventLogger\Microservices.Helper\bin\Debug\netcoreapp3.1\Microservices.Helper.pdb
+G:\LearnAngularAndAspNetCore\MicroServices\Microservice-EventLogger\Microservices.Helper\obj\Debug\netcoreapp3.1\Microservices.Helper.csprojAssemblyReference.cache
+G:\LearnAngularAndAspNetCore\MicroServices\Microservice-EventLogger\Microservices.Helper\obj\Debug\netcoreapp3.1\Microservices.Helper.dll
+G:\LearnAngularAndAspNetCore\MicroServices\Microservice-EventLogger\Microservices.Helper\obj\Debug\netcoreapp3.1\Microservices.Helper.pdb
+E:\LearnAngularAndAspNetCore\MicroServices\Microservice-EventLogger\Microservices.Helper\bin\Debug\netcoreapp3.1\Microservices.Helper.deps.json
+E:\LearnAngularAndAspNetCore\MicroServices\Microservice-EventLogger\Microservices.Helper\bin\Debug\netcoreapp3.1\Microservices.Helper.dll
+E:\LearnAngularAndAspNetCore\MicroServices\Microservice-EventLogger\Microservices.Helper\bin\Debug\netcoreapp3.1\Microservices.Helper.pdb
+E:\LearnAngularAndAspNetCore\MicroServices\Microservice-EventLogger\Microservices.Helper\obj\Debug\netcoreapp3.1\Microservices.Helper.csprojAssemblyReference.cache
+E:\LearnAngularAndAspNetCore\MicroServices\Microservice-EventLogger\Microservices.Helper\obj\Debug\netcoreapp3.1\Microservices.Helper.AssemblyInfoInputs.cache
+E:\LearnAngularAndAspNetCore\MicroServices\Microservice-EventLogger\Microservices.Helper\obj\Debug\netcoreapp3.1\Microservices.Helper.AssemblyInfo.cs
+E:\LearnAngularAndAspNetCore\MicroServices\Microservice-EventLogger\Microservices.Helper\obj\Debug\netcoreapp3.1\Microservices.Helper.dll
+E:\LearnAngularAndAspNetCore\MicroServices\Microservice-EventLogger\Microservices.Helper\obj\Debug\netcoreapp3.1\Microservices.Helper.pdb
