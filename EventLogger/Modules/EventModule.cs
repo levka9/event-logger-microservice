@@ -82,7 +82,7 @@ namespace EventLogger.Modules
             catch (Exception ex)
             {
                 // TODO: log
-                throw;
+                throw ex;
             }
 
             return eventLog.Id;

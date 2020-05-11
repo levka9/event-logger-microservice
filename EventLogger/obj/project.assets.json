@@ -2126,6 +2126,19 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
+      },
+      "Microservices.Helper/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Newtonsoft.Json": "9.0.1"
+        },
+        "compile": {
+          "bin/placeholder/Microservices.Helper.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Microservices.Helper.dll": {}
+        }
       }
     }
   },
@@ -7170,11 +7183,16 @@
         "system.xml.xmlserializer.4.3.0.nupkg.sha512",
         "system.xml.xmlserializer.nuspec"
       ]
+    },
+    "Microservices.Helper/1.0.0": {
+      "type": "project",
+      "path": "../Microservices.Helper/Microservices.Helper.csproj",
+      "msbuildProject": "../Microservices.Helper/Microservices.Helper.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "G:\\LearnAngularAndAspNetCore\\MicroServices\\Microservice-EventLogger\\Microservices.Helper\\Microservices.Helper.csproj",
+      "Microservices.Helper >= 1.0.0",
       "Microsoft.AspNetCore.Owin >= 3.1.3",
       "Microsoft.EntityFrameworkCore >= 3.1.3",
       "Microsoft.EntityFrameworkCore.SqlServer >= 3.1.3",
@@ -7183,7 +7201,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Lev\\.nuget\\packages\\": {},
+    "C:\\Users\\user9\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
@@ -7193,7 +7211,7 @@
       "projectUniqueName": "G:\\LearnAngularAndAspNetCore\\MicroServices\\Microservice-EventLogger\\EventLogger\\EventLogger.csproj",
       "projectName": "EventLogger",
       "projectPath": "G:\\LearnAngularAndAspNetCore\\MicroServices\\Microservice-EventLogger\\EventLogger\\EventLogger.csproj",
-      "packagesPath": "C:\\Users\\Lev\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\user9\\.nuget\\packages\\",
       "outputPath": "G:\\LearnAngularAndAspNetCore\\MicroServices\\Microservice-EventLogger\\EventLogger\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
@@ -7201,7 +7219,7 @@
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Lev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\user9\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -7210,7 +7228,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://nuget.grapecity.com/nuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -7272,19 +7289,8 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1105",
-      "level": "Error",
-      "message": "Unable to find project information for 'G:\\LearnAngularAndAspNetCore\\MicroServices\\Microservice-EventLogger\\Microservices.Helper\\Microservices.Helper.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so please run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
-      "libraryId": "G:\\LearnAngularAndAspNetCore\\MicroServices\\Microservice-EventLogger\\Microservices.Helper\\Microservices.Helper.csproj",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v3.1"
-      ]
-    }
-  ]
+  }
 }
