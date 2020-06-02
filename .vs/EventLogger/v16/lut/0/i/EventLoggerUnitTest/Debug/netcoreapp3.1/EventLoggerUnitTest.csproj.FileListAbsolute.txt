@@ -1,0 +1,3 @@
+G:\LearnAngularAndAspNetCore\MicroServices\Microservice-EventLogger\.vs\EventLogger\v16\lut\0\i\EventLoggerUnitTest\Debug\netcoreapp3.1\EventLoggerUnitTest.csprojAssemblyReference.cache
+G:\LearnAngularAndAspNetCore\MicroServices\Microservice-EventLogger\.vs\EventLogger\v16\lut\0\i\EventLoggerUnitTest\Debug\netcoreapp3.1\EventLoggerUnitTest.AssemblyInfoInputs.cache
+G:\LearnAngularAndAspNetCore\MicroServices\Microservice-EventLogger\.vs\EventLogger\v16\lut\0\i\EventLoggerUnitTest\Debug\netcoreapp3.1\EventLoggerUnitTest.AssemblyInfo.cs

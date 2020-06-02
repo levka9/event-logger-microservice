@@ -25,3 +25,8 @@ Body:
 	]
 }
 
+Response:
+{
+    "eventId": 93
+}
+

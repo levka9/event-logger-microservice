@@ -1,0 +1,13 @@
+G:\LearnAngularAndAspNetCore\MicroServices\Microservice-EventLogger\.vs\EventLogger\v16\lut\0\i\EventLoggerUnitTest\Release\netcoreapp3.1\EventLoggerUnitTest.AssemblyInfoInputs.cache
+G:\LearnAngularAndAspNetCore\MicroServices\Microservice-EventLogger\.vs\EventLogger\v16\lut\0\i\EventLoggerUnitTest\Release\netcoreapp3.1\EventLoggerUnitTest.AssemblyInfo.cs
+G:\LearnAngularAndAspNetCore\MicroServices\Microservice-EventLogger\.vs\EventLogger\v16\lut\0\b\EventLoggerUnitTest\Release\netcoreapp3.1\appsettings.Development.json
+G:\LearnAngularAndAspNetCore\MicroServices\Microservice-EventLogger\.vs\EventLogger\v16\lut\0\b\EventLoggerUnitTest\Release\netcoreapp3.1\appsettings.json
+G:\LearnAngularAndAspNetCore\MicroServices\Microservice-EventLogger\.vs\EventLogger\v16\lut\0\b\EventLoggerUnitTest\Release\netcoreapp3.1\Properties\launchSettings.json
+G:\LearnAngularAndAspNetCore\MicroServices\Microservice-EventLogger\.vs\EventLogger\v16\lut\0\b\EventLoggerUnitTest\Release\netcoreapp3.1\EventLogger.exe
+G:\LearnAngularAndAspNetCore\MicroServices\Microservice-EventLogger\.vs\EventLogger\v16\lut\0\b\EventLoggerUnitTest\Release\netcoreapp3.1\EventLoggerUnitTest.deps.json
+G:\LearnAngularAndAspNetCore\MicroServices\Microservice-EventLogger\.vs\EventLogger\v16\lut\0\b\EventLoggerUnitTest\Release\netcoreapp3.1\EventLoggerUnitTest.runtimeconfig.json
+G:\LearnAngularAndAspNetCore\MicroServices\Microservice-EventLogger\.vs\EventLogger\v16\lut\0\b\EventLoggerUnitTest\Release\netcoreapp3.1\EventLoggerUnitTest.runtimeconfig.dev.json
+G:\LearnAngularAndAspNetCore\MicroServices\Microservice-EventLogger\.vs\EventLogger\v16\lut\0\b\EventLoggerUnitTest\Release\netcoreapp3.1\EventLoggerUnitTest.dll
+G:\LearnAngularAndAspNetCore\MicroServices\Microservice-EventLogger\.vs\EventLogger\v16\lut\0\i\EventLoggerUnitTest\Release\netcoreapp3.1\EventLoggerUnitTest.csprojAssemblyReference.cache
+G:\LearnAngularAndAspNetCore\MicroServices\Microservice-EventLogger\.vs\EventLogger\v16\lut\0\i\EventLoggerUnitTest\Release\netcoreapp3.1\EventLoggerUnitTest.csproj.CopyComplete
+G:\LearnAngularAndAspNetCore\MicroServices\Microservice-EventLogger\.vs\EventLogger\v16\lut\0\i\EventLoggerUnitTest\Release\netcoreapp3.1\EventLoggerUnitTest.dll

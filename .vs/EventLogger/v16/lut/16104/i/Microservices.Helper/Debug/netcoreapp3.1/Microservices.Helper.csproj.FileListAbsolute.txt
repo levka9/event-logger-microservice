@@ -1,0 +1,7 @@
+G:\LearnAngularAndAspNetCore\MicroServices\Microservice-EventLogger\.vs\EventLogger\v16\lut\0\b\Microservices.Helper\Debug\netcoreapp3.1\Microservices.Helper.deps.json
+G:\LearnAngularAndAspNetCore\MicroServices\Microservice-EventLogger\.vs\EventLogger\v16\lut\0\b\Microservices.Helper\Debug\netcoreapp3.1\Microservices.Helper.dll
+G:\LearnAngularAndAspNetCore\MicroServices\Microservice-EventLogger\.vs\EventLogger\v16\lut\0\i\Microservices.Helper\Debug\netcoreapp3.1\Microservices.Helper.csprojAssemblyReference.cache
+G:\LearnAngularAndAspNetCore\MicroServices\Microservice-EventLogger\.vs\EventLogger\v16\lut\0\i\Microservices.Helper\Debug\netcoreapp3.1\Microservices.Helper.AssemblyInfoInputs.cache
+G:\LearnAngularAndAspNetCore\MicroServices\Microservice-EventLogger\.vs\EventLogger\v16\lut\0\i\Microservices.Helper\Debug\netcoreapp3.1\Microservices.Helper.AssemblyInfo.cs
+G:\LearnAngularAndAspNetCore\MicroServices\Microservice-EventLogger\.vs\EventLogger\v16\lut\0\i\Microservices.Helper\Debug\netcoreapp3.1\Microservices.Helper.csproj.CopyComplete
+G:\LearnAngularAndAspNetCore\MicroServices\Microservice-EventLogger\.vs\EventLogger\v16\lut\0\i\Microservices.Helper\Debug\netcoreapp3.1\Microservices.Helper.dll

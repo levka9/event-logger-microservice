@@ -7201,7 +7201,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\user9\\.nuget\\packages\\": {},
+    "C:\\Users\\Lev\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
@@ -7211,7 +7211,7 @@
       "projectUniqueName": "G:\\LearnAngularAndAspNetCore\\MicroServices\\Microservice-EventLogger\\EventLogger\\EventLogger.csproj",
       "projectName": "EventLogger",
       "projectPath": "G:\\LearnAngularAndAspNetCore\\MicroServices\\Microservice-EventLogger\\EventLogger\\EventLogger.csproj",
-      "packagesPath": "C:\\Users\\user9\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\Lev\\.nuget\\packages\\",
       "outputPath": "G:\\LearnAngularAndAspNetCore\\MicroServices\\Microservice-EventLogger\\EventLogger\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
@@ -7219,7 +7219,7 @@
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\user9\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Lev\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -7228,6 +7228,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://nuget.grapecity.com/nuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -7289,7 +7290,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,0 +1,8 @@
+G:\LearnAngularAndAspNetCore\MicroServices\Microservice-EventLogger\Microservices.Helper\bin\Release\netcoreapp3.1\Microservices.Helper.deps.json
+G:\LearnAngularAndAspNetCore\MicroServices\Microservice-EventLogger\Microservices.Helper\bin\Release\netcoreapp3.1\Microservices.Helper.dll
+G:\LearnAngularAndAspNetCore\MicroServices\Microservice-EventLogger\Microservices.Helper\bin\Release\netcoreapp3.1\Microservices.Helper.pdb
+G:\LearnAngularAndAspNetCore\MicroServices\Microservice-EventLogger\Microservices.Helper\obj\Release\netcoreapp3.1\Microservices.Helper.csprojAssemblyReference.cache
+G:\LearnAngularAndAspNetCore\MicroServices\Microservice-EventLogger\Microservices.Helper\obj\Release\netcoreapp3.1\Microservices.Helper.AssemblyInfoInputs.cache
+G:\LearnAngularAndAspNetCore\MicroServices\Microservice-EventLogger\Microservices.Helper\obj\Release\netcoreapp3.1\Microservices.Helper.AssemblyInfo.cs
+G:\LearnAngularAndAspNetCore\MicroServices\Microservice-EventLogger\Microservices.Helper\obj\Release\netcoreapp3.1\Microservices.Helper.dll
+G:\LearnAngularAndAspNetCore\MicroServices\Microservice-EventLogger\Microservices.Helper\obj\Release\netcoreapp3.1\Microservices.Helper.pdb

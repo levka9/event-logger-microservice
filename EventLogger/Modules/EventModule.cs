@@ -9,6 +9,7 @@ using Microsoft.EntityFrameworkCore;
 using Nancy.ModelBinding;
 using Newtonsoft.Json;
 using Microservices.Helper;
+using EventLogger.Models.Responses;
 
 namespace EventLogger.Modules
 {
@@ -32,8 +33,8 @@ namespace EventLogger.Modules
 
             base.Post("add", async (parameters, _) =>
             {
-                long response = await Add(parameters);
-                return Response.AsJson<long>(response);                 
+                long eventId = await Add(parameters);
+                return Response.AsJson<EventAddReponse>(new EventAddReponse() { EventId = eventId });
             });
         }
 
@@ -70,9 +71,10 @@ namespace EventLogger.Modules
             var eventLog = this.Bind<Event>();
 
             //TODO: Get userId from token;
-            var userId = 12;
+            //var userId = 12;
 
-            eventLog.UserId = userId.ToString();
+            //eventLog.UserId = userId.ToString();
+            eventLog.CreatedDate = DateTime.UtcNow;
 
             try
             {
